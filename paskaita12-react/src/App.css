@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+}
+/*------ Global*/
+a{
+  text-decoration: none;
+}
+
+.w-80{
+  width: 90%;
+}
+
+.min-200{
+  min-height: 200px;
+}
+
+.min-400{
+  min-height: 400px;
+}
+
+
+/*------ Top bar */
+.intro{
+  background-color: #fffffe;
+  color: #2a2a2a;
+}
+
+.header{
+  background-color: #eff0f3;
+  color: #2a2a2a;
+}
+
+/*------ auction*/
+.auctionItem{
+  height: 180px;
+}
+.auctionItem:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+/*------ body*/
+.body{
+  background-color: #fffffe;
+  color: #2a2a2a
+}
+
+
+
+/*------ syles*/
+.hypertext{
+  font-size: 0.8rem;
+}
+
+.link{
+  color: #ff8e3c;
+}
+.link2{
+  color: #d9376e;
+}
+
+.navLink{
+  color: #2a2a2a;
+}
+
+.navLink :hover{
+  color: #0d0d0d;
+}
+
+.primaryBox{
+  background-color: #eff0f3;
+  color: #2a2a2a;
+  border: none;
+}
+.secondaryBox{
+  background-color: #fffffe;
+  color: #2a2a2a;
+}
+
+.primaryButton{
+  background-color: #ff8e3c;
+  color: #eff0f3;
+}
+
+.primaryButton:hover{
+  background-color: #f59453;
+  color: #eff0f3;
+}
+
+.primaryButton:focus{
+  background-color: #f59453;
+  color: #eff0f3;
+}
+
+.secondaryButton{
+  background-color: #d9376e;
+  color: #eff0f3;
+}
+
+.secondaryButton:hover{
+  background-color: #d9376e;
+  color: #eff0f3;
+}
+
+.secondaryButton:focus{
+  background-color: #d9376e;
+  color: #eff0f3;
+}
+
+
+

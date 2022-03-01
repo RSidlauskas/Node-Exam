@@ -1,0 +1,9 @@
+
+
+// user can not bid more than he has money in his account
+
+
+// bonus points if bids are made with SOCKETS (bids are real time)
+
+// Library for scheduling processes:
+//https://www.npmjs.com/package/node-schedule
